@@ -654,5 +654,19 @@
 		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_VREDEFORT_DOME_CHAPTER_HISTORY_PARA_1" Language="de_DE">
 			<Text>Der Vredefort Dome ist der größte bestätigte Einschlagkrater auf der Erde und erstreckt sich über etwa 300 Kilometer im Durchmesser. Er befindet sich nahe der Stadt Vredefort in Südafrika. Vor mehr als 2 Milliarden Jahren kollidierte ein riesiger Meteorit mit der Erde und hinterließ diesen beeindruckenden Krater. Die Auswirkungen dieses Ereignisses waren enorm und veränderten die Landschaft für immer. Der Krater ist seit 2005 ein UNESCO-Weltkulturerbe und zieht Wissenschaftler und Touristen gleichermaßen an, die die Geologie und die Geschichte des Einschlags erforschen wollen.</Text>
 		</Replace>
+
+		<!-- = Wulingyuan = -->
+		<Replace Tag="LOC_FEATURE_WULINGYUAN_NAME" Language="de_DE">
+			<Text>Wulingyuan</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_WULINGYUAN_DESCRIPTION" Language="de_DE">
+			<Text>Zweiteiliges unpassierbares Naturwunder. Gewährt den angrenzenden Feldern +1 [ICON_CULTURE] Kultur.</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_WULINGYUAN_QUOTE" Language="de_DE">
+			<Text>"Aus zehntausend Tälern berühren die Bäume den Himmel, von tausend Gipfeln rufen Kuckucke, und nach einer Nacht voller Bergregen kommen von jedem Gipfel hunderte von seidenen Wasserfällen herab." [NEWLINE]- Wang Wei</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_WULINGYUAN_CHAPTER_HISTORY_PARA_1" Language="de_DE">
+			<Text>Wulingyuan ist eine malerische und historische Stätte im südlichen Zentralchina. Sie ist bekannt für mehr als 3.000 Quarzit-Sandsteinpfeiler und Gipfel, viele davon über 200 Meter hoch, sowie für Schluchten, Schluchten, Teiche, Seen, Flüsse und Wasserfälle. Es gibt 40 Höhlen und zwei natürliche Brücken: die Xianrenqiao (Brücke der Unsterblichen) und die Tianqiashengkong (Brücke über den Himmel).</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>
